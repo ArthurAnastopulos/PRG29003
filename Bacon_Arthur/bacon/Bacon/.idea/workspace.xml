@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Bacon" targetName="Bacon" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c80de9-6304-483d-a835-231342fa7b61" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tOSuZjxu" />
+  </component>
+  <component name="ProjectId" id="1Pn4GghT1Ffj7GTmA6yaS9HkkUu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Bacon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Bacon" TARGET_NAME="Bacon" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Bacon" RUN_TARGET_NAME="Bacon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06c80de9-6304-483d-a835-231342fa7b61" name="Default Changelist" comment="" />
+      <created>1566496432986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566496432986</updated>
+      <workItem from="1566496434065" duration="2359000" />
+      <workItem from="1566590606254" duration="322000" />
+      <workItem from="1566848470882" duration="647000" />
+      <workItem from="1566851202273" duration="3954000" />
+      <workItem from="1566931486073" duration="5365000" />
+      <workItem from="1566938607596" duration="1395000" />
+      <workItem from="1567090775264" duration="1803000" />
+      <workItem from="1567093004966" duration="1634000" />
+      <workItem from="1567097685808" duration="90000" />
+      <workItem from="1567423754055" duration="2348000" />
+      <workItem from="1567469804349" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="filmes" />
+        <watch expression="atores" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+/home/Akray/CLionProjects/Prg2_Trees/Prg2_Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Akray/CLionProjects/Prg2_Trees/Prg2_Clion/cmake-build-debug/CMakeFiles/Prg2_demo.dir
+/home/Akray/CLionProjects/Prg2_Trees/Prg2_Clion/cmake-build-debug/CMakeFiles/edit_cache.dir

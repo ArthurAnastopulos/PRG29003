@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Prg2_demo" targetName="Prg2_demo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18cdba3e-1618-4bae-b406-2c07ebef48e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1PNrDWxXqAFIwTWshmF4k3VLn88" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ObjectiveC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Projeto 01/bacon/Bacon/main.cpp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Prg2_demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Prg2_demo" TARGET_NAME="Prg2_demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Prg2_demo" RUN_TARGET_NAME="Prg2_demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18cdba3e-1618-4bae-b406-2c07ebef48e3" name="Default Changelist" comment="" />
+      <created>1567711647648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567711647648</updated>
+      <workItem from="1567711648872" duration="3285000" />
+      <workItem from="1567715656129" duration="1623000" />
+      <workItem from="1568141929887" duration="1606000" />
+      <workItem from="1568301488508" duration="2278000" />
+      <workItem from="1568306042641" duration="743000" />
+      <workItem from="1568313797060" duration="3319000" />
+      <workItem from="1568719059868" duration="901000" />
+      <workItem from="1568892254768" duration="3474000" />
+      <workItem from="1568906220101" duration="9964000" />
+      <workItem from="1568916470544" duration="347000" />
+      <workItem from="1568917242306" duration="297000" />
+      <workItem from="1568918877609" duration="4503000" />
+      <workItem from="1568976760616" duration="6556000" />
+      <workItem from="1569169746257" duration="2461000" />
+      <workItem from="1569172577970" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

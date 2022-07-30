@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Prg2_Trees" targetName="Prg2_demo" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18cdba3e-1618-4bae-b406-2c07ebef48e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="pwqPYQlf" />
+  </component>
+  <component name="ProjectId" id="1PNrDWxXqAFIwTWshmF4k3VLn88" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Prg2_demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Prg2_Trees" TARGET_NAME="Prg2_demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Prg2_Trees" RUN_TARGET_NAME="Prg2_demo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18cdba3e-1618-4bae-b406-2c07ebef48e3" name="Default Changelist" comment="" />
+      <created>1569344342361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569344342361</updated>
+      <workItem from="1569344343556" duration="3424000" />
+      <workItem from="1569956701568" duration="4383000" />
+      <workItem from="1570114265184" duration="35000" />
+      <workItem from="1570720832710" duration="5701000" />
+      <workItem from="1570733186743" duration="3910000" />
+      <workItem from="1570737548855" duration="216000" />
+      <workItem from="1570739091148" duration="947000" />
+      <workItem from="1570793873591" duration="5714000" />
+      <workItem from="1571223691713" duration="470000" />
+      <workItem from="1571225145609" duration="7445000" />
+      <workItem from="1571324379442" duration="5072000" />
+      <workItem from="1571330573154" duration="2628000" />
+      <workItem from="1571334417505" duration="243000" />
+      <workItem from="1571335510518" duration="327000" />
+      <workItem from="1571587750592" duration="909000" />
+      <workItem from="1571589319220" duration="8033000" />
+      <workItem from="1571697002752" duration="5821000" />
+      <workItem from="1571704793235" duration="1521000" />
+      <workItem from="1571760279308" duration="70000" />
+      <workItem from="1571830929845" duration="2436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="auxiliar2.std::__cxx11::list&lt;std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt;, std::allocator&lt;std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt; &gt; &gt;" />
+        <watch expression="auxiliar2.std::__cxx11::list&lt;std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt;, std::allocator&lt;std::__cxx11::basic_string&lt;char, std::char_traits&lt;char&gt;, std::allocator&lt;char&gt; &gt; &gt; &gt;" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

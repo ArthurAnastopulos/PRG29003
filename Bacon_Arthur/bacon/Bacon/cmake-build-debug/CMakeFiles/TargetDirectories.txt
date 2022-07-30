@@ -1,0 +1,3 @@
+/home/Akray/CLionProjects/Projeto 01/bacon/Bacon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Akray/CLionProjects/Projeto 01/bacon/Bacon/cmake-build-debug/CMakeFiles/Bacon.dir
+/home/Akray/CLionProjects/Projeto 01/bacon/Bacon/cmake-build-debug/CMakeFiles/edit_cache.dir

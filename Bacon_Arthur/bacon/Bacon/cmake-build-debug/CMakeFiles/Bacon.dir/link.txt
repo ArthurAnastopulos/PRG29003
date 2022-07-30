@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g   CMakeFiles/Bacon.dir/main.cpp.o CMakeFiles/Bacon.dir/Mapa.cpp.o  -o Bacon 

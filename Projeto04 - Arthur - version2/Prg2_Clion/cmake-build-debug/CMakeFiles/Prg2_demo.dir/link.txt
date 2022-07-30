@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g   CMakeFiles/Prg2_demo.dir/main.cpp.o CMakeFiles/Prg2_demo.dir/verbetes.cpp.o CMakeFiles/Prg2_demo.dir/dicionario.cpp.o  -o Prg2_demo -L/home/Akray/CLionProjects/Prg2_Trees/Prg2_Clion/libs -lprglib 

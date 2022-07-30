@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++  -g   CMakeFiles/Prg2_demo.dir/main.cpp.o CMakeFiles/Prg2_demo.dir/projeto2.cpp.o  -o Prg2_demo 
